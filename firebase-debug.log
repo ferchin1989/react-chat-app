@@ -1,0 +1,27 @@
+[debug] [2025-06-16T22:01:17.305Z] ----------------------------------------------------------------------
+[debug] [2025-06-16T22:01:17.307Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2025-06-16T22:01:17.307Z] CLI Version:   14.7.0
+[debug] [2025-06-16T22:01:17.307Z] Platform:      darwin
+[debug] [2025-06-16T22:01:17.307Z] Node Version:  v22.13.0
+[debug] [2025-06-16T22:01:17.308Z] Time:          Mon Jun 16 2025 17:01:17 GMT-0500 (Colombia Standard Time)
+[debug] [2025-06-16T22:01:17.308Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-06-16T22:01:17.416Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2025-06-16T22:01:17.418Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-06-16T22:01:17.418Z] > authorizing via signed-in user (rfcpuma09@gmail.com)
+[debug] [2025-06-16T22:01:17.419Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/air/Documents/programacion/flutter/apps-flutter/chatreact
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
